@@ -1,6 +1,4 @@
 - 👋 Hi, I’m maxio96
 - 🎓 I graduated (with honors) in Computer Engineering, Cybersecurity track
-- 👀 I’m interested in COMPUTER SCIENCE, COMPUTER ENGINEERING, MATH
-- 🌱 I’m currently pursuing a Master’s degree in Computer Science at Università degli Studi di Salerno
 - 💞️ I love coding and solving mathematical problems!
 - 📫 How to reach me https://www.linkedin.com/in/mario-giordano-a9779b199/
